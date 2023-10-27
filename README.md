@@ -34,10 +34,10 @@ Here's a step-by-step overview of how this can be achieved:
    - Extensive testing is crucial to ensure that the generated dialogues are coherent, contextually relevant, and align with the game's narrative. Fine-tune the AI model and the contextual systems based on feedback from playtesting.
 
 **10. Player Feedback Integration**:
-    - Allow players to provide feedback on the NPC dialogues. This feedback can be used to further improve the dialogue generation system and make it more responsive to player preferences.
+- Allow players to provide feedback on the NPC dialogues. This feedback can be used to further improve the dialogue generation system and make it more responsive to player preferences.
 
 **11. Scaling and Efficiency**:
-    - Optimize the system for efficiency, as it needs to handle a large number of NPCs and dialogues in real-time, without causing performance issues in the game.
+- Optimize the system for efficiency, as it needs to handle a large number of NPCs and dialogues in real-time, without causing performance issues in the game.
 
 By following these steps, a generative AI-driven dialogue system that creates realistic and context-aware dialogues for NPCs can be implemented, enhancing the immersive and interactive aspects of the gaming experience. Such a system allows players to engage more deeply with the game world and its characters, making for a more dynamic and engaging gaming experience.
 
